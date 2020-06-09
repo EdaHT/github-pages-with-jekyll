@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido al Proyecto Eda
 
 I'm glad you are here. I plan to talk about ...
